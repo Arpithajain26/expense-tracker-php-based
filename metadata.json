@@ -1,0 +1,6 @@
+{
+  "name": "Personal Expense Tracker - PHP & MySQL Project Suite",
+  "description": "Complete full-stack Personal Expense Tracker college mini project built with PHP, MySQL, Bootstrap 5, and Chart.js, featuring interactive preview, source code exporter, and viva documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
